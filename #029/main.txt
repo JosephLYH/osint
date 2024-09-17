@@ -45,3 +45,18 @@ red seat colour
 Ans:
 AZUMA train LNER
 Standard Class Seat
+
+
+Task C) Identify my seat number.
+
+1. Identifiers:
+Quiet area 
+No one behind the seat
+Rightmost seat with window on the right
+
+2. Notice the 9 coach azuma train has a quieter Coach H in the train layouts
+
+3. Only possible seats are 8/83. However, the seat before 83 is a priority seat and the photo does not seem to have a priority seat before.
+
+Ans:
+Seat no. 6 in Coach H
