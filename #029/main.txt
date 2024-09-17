@@ -35,3 +35,13 @@ James, in her reticule and
 
 Task B) Identify the train model.
 
+1. Given that the photo is taken in UK, search for UK train interior to find matching images
+
+2. Identifiers: 
+train seat shape
+red seat colour
+
+
+Ans:
+AZUMA train LNER
+Standard Class Seat
