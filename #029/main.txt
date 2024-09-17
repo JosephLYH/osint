@@ -1,8 +1,10 @@
-Task A:
+Task A) Uncover what the person in front of me was reading.
 
-1. Notice the iage is a reflection and flip the image to find readable words
+1. Notice the image is a reflection and flip the image to find readable words
 
-2. Guess part of the text
+2. incerase contrast for better viewability
+
+3. Guess part of the text
 
 Text:
 ... leather gloves ...
@@ -12,7 +14,7 @@ Text:
 ... William's cous(in)?
 james, ...
 
-3. Google advanced book search to find the book
+4. Google advanced book search to find the book
 
 Ans:
 The Fair Botanist
@@ -29,3 +31,7 @@ long, shrill whistle sounds
 on deck. She has the let
 ters from William's cousin, 
 James, in her reticule and
+
+
+Task B) Identify the train model.
+
