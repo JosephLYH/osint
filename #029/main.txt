@@ -56,7 +56,9 @@ Rightmost seat with window on the right
 
 2. Notice the 9 coach azuma train has a quieter Coach H in the train layouts
 
-3. Only possible seats are 8/83. However, the seat before 83 is a priority seat and the photo does not seem to have a priority seat before.
+3. Only possible seats are 6/83.
+
+4. In the reflection of the photo, there are 3 consecutive seats facing the opposite direction with empty space in front. Only seat 83 satisfies the constraints.
 
 Ans:
-Seat no. 6 in Coach H
+Seat no. 83 in Coach H
